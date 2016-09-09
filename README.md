@@ -18,7 +18,7 @@ Change into the folder using `cd FRC399-2017-Preseason` (after you type FRC399, 
 Now you want to create a personalized branch called MyNameBranch (replace MyName with your name!)
 This is done by the commands `git branch MyNameBranch` followed by `git checkout MyNameBranch`
 
-4) Now you can edit the document and add your name. use `pwd` to find where your file is, then open file finder and edit the text file collaborators.txt 
+4) Now you can edit the document and add your name. use `pwd` to find where your file is, then open file finder and edit the text file collaborators.txt to add your name
 
 5) add and commit your changes. This is done with `git add collaborators.txt` followed by `git commit -m 'Added my name'`
 
