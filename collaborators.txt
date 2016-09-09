@@ -1,19 +1,3 @@
-Hello,
-
-To collaboratively code will require us to be able to write code on different machines,
-and then combine our separate work into a single working code base to download onto the robot.
-
-We will use github to facilitate this information. The first task will be to create a Pull Request
-editing this document and adding your name to the bottom. These are the steps you will take to do this.
-
-First, make sure you have github command lind downloaded locally.
-clone this repository to a local folder on your machine.
-create a personalized branch called MyNameBranch (replace MyName with your name!)
-edit the document
-add and commit your changes
-push your code to the central repo (git push origin MyNameBranch) 
-go to the browser, find your branch on the repo, and create a pull request.
-
 When we are done, all of our names will be in the following list, and we will be able to see the commit
 history of each person adding their name to it.
 
